@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 12px;">
@@ -13,13 +11,18 @@
         <img
           src="https://raw.githubusercontent.com/RennieDB/RennieDB/main/Learning%20to%20code%20snoopy%20style%20lightmode.png"
           alt="Snoopy characters attempting to code"
-          width="100"
-          height="100">
+          width="200"
+          height="200">
       </picture>
     </td>
     <td style="vertical-align: top;">
-      <strong>Hi there 👋</strong><br>
-      🔭 I’m currently working on learning GitHub, Arduino, and using Copilot to help me
+      <strong>Hi there 👋</strong><br><br>
+      🔭 I’m currently working on the following (using copilot and other models to help me):
+      <ul>
+        <li> Arduino</li>
+        <li> Python</li>
+        <li> Typescript</li>
+        <li> Source control with github</li>
     </td>
   </tr>
 </table>
