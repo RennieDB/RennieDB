@@ -19,10 +19,11 @@
       <strong>Hi there 👋</strong><br><br>
       🔭 I’m currently working on the following (using copilot and other models to help me):
       <ul>
-        <li> Arduino</li>
-        <li> Python</li>
-        <li> Typescript</li>
-        <li> Source control with github</li>
+        <li>Arduino</li>
+        <li>Python</li>
+        <li>TypeScript</li>
+        <li>Source control with GitHub</li>
+      </ul>
     </td>
   </tr>
 </table>
