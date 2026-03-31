@@ -1,9 +1,21 @@
 ## Hi there 👋
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RennieDB/RennieDB/blob/main/Learning%20to%20code%20snoopy%20style%20lightmode.png">
-  <source media="(prefers-color-scheme: light)" srcset="(https://github.com/RennieDB/RennieDB/blob/main/Learning%20to%20code%20snoopy%20style%20lightmode.png">
-  <img alt="Shows an picture of snoopy characters attempting to code in daylight for light mode, or darkness for dark mode." src="https://github.com/RennieDB/RennieDB/blob/main/Learning%20to%20code%20snoopy%20style%20lightmode.png">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RennieDB/RennieDB/main/Learning%20to%20code%20snoopy%20style%20darkmode.png">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RennieDB/RennieDB/main/Learning%20to%20code%20snoopy%20style%20lightmode.png">
+
+  <img
+    src="https://raw.githubusercontent.com/RennieDB/RennieDB/main/Learning%20to%20code%20snoopy%20style%20lightmode.png"
+    alt="Snoopy characters attempting to code"
+    width="100"
+    height="100">
 </picture>
+
 
 - 🔭 I’m currently working on learning GitHub, Arduino and using CoPilot to help me
 
